@@ -178,6 +178,16 @@ text-decoration-color: red;
 #subcribe{
     text-align: center;
 }
-#cr{
+.lastly{
     background-color: #F15A29;
+    height: 100%;
+}
+#fotologo{
+    text-align: center;
+}
+#social{
+    text-align: center;
+}
+#logow{
+    text-align: center;
 }
